@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Endless roll",
+  "base_artist": "内田彩",
+  "createdAt": "2026-02-15T18:09:29.996748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless roll",
+      "artist": "NICO Touches the Walls",
+      "has_synced": true,
+      "path": "select/01_Endless_roll_NICO_Touches_the_Walls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless roll",
+      "artist": "内田彩",
+      "has_synced": true,
+      "path": "select/02_Endless_roll_内田彩.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ENDLESS ROLL",
+      "artist": "NAMEDARUMAAZ",
+      "has_synced": true,
+      "path": "select/03_ENDLESS_ROLL_NAMEDARUMAAZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Endless Roll",
+      "artist": "Aya Uchida",
+      "has_synced": true,
+      "path": "select/04_Endless_Roll_Aya_Uchida.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Endless roll",
+      "artist": "内田彩",
+      "has_synced": false,
+      "path": "select/pl_01_Endless_roll_内田彩.txt"
+    }
+  ]
+}
